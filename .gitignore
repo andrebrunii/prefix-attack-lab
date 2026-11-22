@@ -1,0 +1,9 @@
+# Log e report generati localmente durante i test
+logs/
+reports/
+
+# File temporanei Python e configurazioni locali
+__pycache__/
+*.py[cod]
+.venv/
+.env
